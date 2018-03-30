@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/super-metroid-snes-wallpaper.jpg",
+    "special": {
+        "background": "#020303",
+        "foreground": "#EAD4BA",
+        "cursor": "#EAD4BA"
+    },
+    "colors": {
+        "color0": "#020303",
+        "color1": "#5E595C",
+        "color2": "#945B28",
+        "color3": "#B34F32",
+        "color4": "#D09A54",
+        "color5": "#4F9981",
+        "color6": "#9C9C9B",
+        "color7": "#EAD4BA",
+        "color8": "#676767",
+        "color9": "#5E595C",
+        "color10": "#945B28",
+        "color11": "#B34F32",
+        "color12": "#D09A54",
+        "color13": "#4F9981",
+        "color14": "#9C9C9B",
+        "color15": "#EAD4BA"
+    }
+}

@@ -1,0 +1,4 @@
+
+EDITOR = emacs 
+DEFAULT_EDITOR = emacs 
+label editor = emacs 

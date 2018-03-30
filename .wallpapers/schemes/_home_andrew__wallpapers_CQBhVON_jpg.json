@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/CQBhVON.jpg",
+
+    "special": {
+        "background": "#251f1e",
+        "foreground": "#6EC285",
+        "cursor": "#6EC285"
+    },
+    "colors": {
+        "color0": "#251f1e",
+        "color1": "#4F4637",
+        "color2": "#16225A",
+        "color3": "#303645",
+        "color4": "#4C4947",
+        "color5": "#A74E21",
+        "color6": "#F59E57",
+        "color7": "#6EC285",
+        "color8": "#6d6767",
+        "color9": "#4F4637",
+        "color10": "#16225A",
+        "color11": "#303645",
+        "color12": "#4C4947",
+        "color13": "#A74E21",
+        "color14": "#F59E57",
+        "color15": "#6EC285"
+    }
+}

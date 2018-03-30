@@ -1,0 +1,22 @@
+#
+# ~/.xprofile
+#
+#
+
+# if which dbus-launch >/dev/null && test -z "$DBUS_SESSION_BUS_ADDRESS"; then
+#     eval "$(dbus-launch --sh-syntax --exit-with-session)"
+# fi
+
+# Environment variables
+#
+
+
+wpg -t -s wallhaven-419661.png wallhaven-571643.jpg&
+
+xrandr --output HDMI1 --auto --left-of eDP1&
+
+xscreensaver -nosplash &
+
+compton &
+
+[[ -f ~/.extend.xprofile ]] && . ~/.extend.xprofile

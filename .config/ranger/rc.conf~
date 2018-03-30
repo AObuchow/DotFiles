@@ -1,0 +1,7 @@
+set preview_images true
+set preview_max_size = 5
+set preview_images_method urxvt
+
+EDITOR = emacs 
+DEFAULT_EDITOR = emacs 
+label editor = emacs 

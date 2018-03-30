@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/wallhaven-419661.png",
+    "special": {
+        "background": "#160E09",
+        "foreground": "#C9C0AD",
+        "cursor": "#C9C0AD"
+    },
+    "colors": {
+        "color0": "#160E09",
+        "color1": "#672423",
+        "color2": "#594335",
+        "color3": "#484848",
+        "color4": "#585151",
+        "color5": "#747474",
+        "color6": "#9B2923",
+        "color7": "#C9C0AD",
+        "color8": "#736e6b",
+        "color9": "#672423",
+        "color10": "#594335",
+        "color11": "#484848",
+        "color12": "#585151",
+        "color13": "#747474",
+        "color14": "#9B2923",
+        "color15": "#C9C0AD"
+    }
+}

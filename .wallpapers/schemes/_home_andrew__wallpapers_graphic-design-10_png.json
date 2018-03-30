@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/graphic-design-10.png",
+
+    "special": {
+        "background": "#3c125f",
+        "foreground": "#7e1cd8",
+        "cursor": "#4B1180"
+    },
+    "colors": {
+        "color0": "#3c125f",
+        "color1": "#D5CB66",
+        "color2": "#E2DD64",
+        "color3": "#F0F061",
+        "color4": "#2D0085",
+        "color5": "#3F0082",
+        "color6": "#420382",
+        "color7": "#4B1180",
+        "color8": "#4f177d",
+        "color9": "#fefe86",
+        "color10": "#fefe82",
+        "color11": "#fefe7d",
+        "color12": "#4e00e9",
+        "color13": "#6f00e6",
+        "color14": "#7304e4",
+        "color15": "#7e1cd8"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/0f1cHBE.jpg",
+    "special": {
+        "background": "#111316",
+        "foreground": "#B4A5A0",
+        "cursor": "#B4A5A0"
+    },
+    "colors": {
+        "color0": "#111316",
+        "color1": "#B3926C",
+        "color2": "#376E89",
+        "color3": "#4C728B",
+        "color4": "#6A798D",
+        "color5": "#8F7B89",
+        "color6": "#6A889D",
+        "color7": "#B4A5A0",
+        "color8": "#707173",
+        "color9": "#B3926C",
+        "color10": "#376E89",
+        "color11": "#4C728B",
+        "color12": "#6A798D",
+        "color13": "#8F7B89",
+        "color14": "#6A889D",
+        "color15": "#B4A5A0"
+    }
+}

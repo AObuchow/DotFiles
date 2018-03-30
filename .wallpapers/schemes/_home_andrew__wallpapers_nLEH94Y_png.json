@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/nLEH94Y.png",
+
+    "special": {
+        "background": "#262321",
+        "foreground": "#f8fee3",
+        "cursor": "#C6D1B5"
+    },
+    "colors": {
+        "color0": "#262321",
+        "color1": "#CE2C05",
+        "color2": "#B66029",
+        "color3": "#AF906C",
+        "color4": "#788E86",
+        "color5": "#9FC9AD",
+        "color6": "#A1C5A9",
+        "color7": "#C6D1B5",
+        "color8": "#3c3734",
+        "color9": "#fe4006",
+        "color10": "#fe8a3b",
+        "color11": "#ecc292",
+        "color12": "#a5c4b9",
+        "color13": "#cbfedd",
+        "color14": "#cdfcd8",
+        "color15": "#f8fee3"
+    }
+}

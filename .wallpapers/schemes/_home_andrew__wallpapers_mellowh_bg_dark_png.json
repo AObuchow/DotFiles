@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/andrew/.wallpapers/mellowh_bg_dark.png",
+    "special": {
+        "background": "#0A0039",
+        "foreground": "#FDFDFD",
+        "cursor": "#FDFDFD"
+    },
+    "colors": {
+        "color0": "#0A0039",
+        "color1": "#8837CF",
+        "color2": "#7F8294",
+        "color3": "#9B95AF",
+        "color4": "#BAB2CA",
+        "color5": "#D3D0DA",
+        "color6": "#E8E7EA",
+        "color7": "#FDFDFD",
+        "color8": "#6c6688",
+        "color9": "#8837CF",
+        "color10": "#7F8294",
+        "color11": "#9B95AF",
+        "color12": "#BAB2CA",
+        "color13": "#D3D0DA",
+        "color14": "#E8E7EA",
+        "color15": "#FDFDFD"
+    }
+}
